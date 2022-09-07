@@ -54,6 +54,7 @@ namespace  Palindrome
 ```
 ## Output:
 ![output](s1.png)
+
 ![output](s2.png)
 
 ## Result:
